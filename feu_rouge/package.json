@@ -1,0 +1,15 @@
+{
+  "name": "amelioration2",
+  "version": "1.0.0",
+  "description": "1. Montar circuito en Arduino de la siguiente manera: https://circuits.io/circuits/2843914-arduinoled",
+  "main": "arduino_led.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.2.6",
+    "johnny-five": "^2.0.0"
+  }
+}
